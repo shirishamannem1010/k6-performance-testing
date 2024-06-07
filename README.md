@@ -4,7 +4,7 @@ This repository contains scripts and resources for performance testing using the
 
 ## Introduction
 
-[k6](https://k6.io/) is a modern load-testing tool, built on our years of experience in the performance and testing industries. It's designed to be powerful, extensible, and full-featured, with the key goal of providing the best developer experience.
+[k6]([https://k6.io/](https://k6.io/docs/get-started/installation/)) is a modern load-testing tool, built on our years of experience in the performance and testing industries. It's designed to be powerful, extensible, and full-featured, with the key goal of providing the best developer experience.
 
 ## Features
 
