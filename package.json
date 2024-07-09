@@ -4,12 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "performance": "k6 run tests/performance.spec.js"},
+    "performance": "k6 run tests/performance.spec.js",
+    "ui_performance": "k6 run tests/ui_performance.spec.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.44.1",
     "@types/node": "^20.14.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "k6": "^0.0.0",
+    "playwright": "^1.44.1"
   }
 }

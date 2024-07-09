@@ -1,0 +1,14 @@
+{
+    "applogoText" : "Swag Labs",
+    "lockedMsgText" : "Epic sadface: Sorry, this user has been locked out.",
+    "firstname" : "Petter",
+    "lastname" : "Parker",
+    "postalcode" : "533236",
+    "orderConfirmationMsg" : "Thank you for your order!",
+    "sideBarIds" : [
+        "inventory_sidebar_link",
+        "about_sidebar_link",
+        "logout_sidebar_link",
+        "reset_sidebar_link"
+    ]
+}
