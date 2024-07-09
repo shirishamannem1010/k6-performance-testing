@@ -58,9 +58,9 @@ export default function(){
 function authenticate(){
     const url='https://restful-booker.herokuapp.com/auth'
     const payload=JSON.stringify({
-        "userName":"shirisha",
-        "password":"pass"
-    })
+        
+        
+        })
     const param={
         headers:{
             'Content-Type':'application/json',
